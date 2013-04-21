@@ -8,7 +8,7 @@ Make sure to have [Brunch.io](http://brunch.io) installed.
 
 Create your project with:
 
-	brunch new <your-project-name> -s git@github.com:V-labs/brunch-vlabs-app.git
+	brunch new <your-project-name> -s git@github.com:V-labs/brunch-web-app.git
 		
 Or simply copy the repository to your hard drive and rename it.
 
